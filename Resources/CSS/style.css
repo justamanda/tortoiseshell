@@ -1,0 +1,144 @@
+html{
+  font-family:helvetica;
+  font-size:18px;
+  line-height:1.4;
+}
+body{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+header{
+  background-image:url("../images/glasses-bg.png");
+  height:30rem;
+  width:100%;
+  background-origin:padding-box;
+  background-clip:border-box;
+  background-attachment:scroll;
+  background-position-x:50%;
+  background-position-y:50%;
+  background-repeat:no-repeat;
+  background-size: cover;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+header.container{
+
+}
+.container{
+  width:960px;
+  border: purple 1px solid;
+  height:100%;
+}
+
+.top-banner{
+  display:flex;
+  flex-direction:row;
+  background-color:cadetblue;
+  width:100%;
+  height:3rem;
+}
+
+.top-logo{
+  display:flex;
+  align-items:center;  
+}
+
+.top-logo img{
+
+  height:1.5rem;
+  width:4rem;
+  padding-left:2rem;
+  padding-right:1rem;
+  border: purple 1px solid;
+
+}
+
+.brand{
+  border: purple 1px solid;
+
+}
+
+.nav{
+  border: purple 1px solid;
+
+}
+
+.mobile.nav{
+  border: purple 1px solid;
+
+}
+
+.tagline{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.main{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.icons{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.exam{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.fittings{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.delivery{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.philosophy{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.title{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.info{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.appointments{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.bot.logo{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
+
+.copyr{
+  border: purple 1px solid;
+  background-color:purple;
+  height:100px;
+}
